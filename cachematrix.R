@@ -1,15 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+#Solving a linear regression of a Data set
 
-## Write a short comment describing this function
+#Import data set
 
-makeCacheMatrix <- function(x = matrix()) {
-
-}
-
-
-## Write a short comment describing this function
-
-cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
-}
+View("file")
+"name"_"insert label"<-lm("data:~"insert",data="insert data name")
+summary("name"_"data")
